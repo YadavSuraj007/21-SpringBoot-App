@@ -3,7 +3,7 @@ package com.nareshit.helloworl;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController   // Any Product Related Functionality entry point to all fronEnd
+@RestController   // Any Product Related Functionality entry point to all fronEnd // For developing Software so i Leanning Coding //
                  // ProductController proObj=ioc.getProductController();
 @RequestMapping(value="/product")
 //http://localhost:8080/product ==> ProductController projObj=ioc.getProductController();
