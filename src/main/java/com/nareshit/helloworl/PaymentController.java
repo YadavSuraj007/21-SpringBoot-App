@@ -3,7 +3,7 @@ package com.nareshit.helloworl;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController(value="/payment") // Why are you Learning //
+@RestController(value="/payment")  Why are you Learning 
 //http://localhost:8080/payment/creditcard==>paymentController payObj=ioc.getPaymentController();
 public class PaymentController {
 
