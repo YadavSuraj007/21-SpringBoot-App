@@ -9,7 +9,7 @@ public class HelloWorldController {
 	
 	@RequestMapping(value="/")
 	public String getHelloWorld() {
-		return "Welcome to Spring Boot Through STS And Git repository // changes for TECH-M 122//";
+		return "Welcome to Spring Boot Through STS And Git repository ";
 	}
 
 }
